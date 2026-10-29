@@ -17,7 +17,6 @@ To write a program to predict the marks scored by a student using the simple lin
 7) Plots
 8) Evaluation metrics
 9) Predict new samples
-10) 
 ## Program:
 ```
 /*
